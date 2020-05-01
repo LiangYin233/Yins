@@ -1,0 +1,28 @@
+/*! @license
+*
+* Yins
+*
+* Yins 是一个免费并且开源的页面 CSS 样式库。
+*
+* MIT License
+*
+* Copyright (c) 2020 LiangYin
+* 
+* Permission is hereby granted, free of charge, to any person obtaining a copy
+* of this software and associated documentation files (the "Software"), to deal
+* in the Software without restriction, including without limitation the rights
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+* copies of the Software, and to permit persons to whom the Software is
+* furnished to do so, subject to the following conditions:
+* 
+* The above copyright notice and this permission notice shall be included in all
+* copies or substantial portions of the Software.
+* 
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+* SOFTWARE.
+*/.btn{display:inline-block;margin:0;padding:0 40px;border:none;text-align:center;text-decoration:none;font-family:Microsoft YaHei;cursor:pointer;transition-duration:.2s;appearance:none}.btn:hover{opacity:.8}.btn:active{background:gray;color:#fff}.btn-shadow{box-shadow:0 8px 16px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)}.btn-success{background-color:#28a745;color:#fff}.btn-success:active{background-color:#1e7e34}.btn-warning{background-color:#fc0;color:#fff}.btn-warning:active{background-color:#d39e00}.btn-error{background-color:#dc3545;color:#fff}.btn-error:active{background-color:#bd2130}.btn-light{background-color:#f8f9fa;color:#000}.btn-light:active{background-color:#dae0e5}.btn-dark{background-color:#343a40;color:#fff}.btn-dark:active{background-color:#1d2124}.btn-mellow{border-radius:2.5px 2.5px 2.5px 2.5px}.btn-mellower{border-radius:5px 5px 5px 5px}.btn-mellowest{border-radius:10px 10px 10px 10px}.btn-largest{padding:0 70px;height:70px;font-size:28px;line-height:70px}.btn-larger{padding:0 60px;height:60px;font-size:24px;line-height:60px}.btn-large{padding:0 50px;height:50px;font-size:20px;line-height:50px}.btn-normal{padding:0 40px;height:40px;font-size:16px;line-height:40px}.btn-small{padding:0 30px;height:30px;font-size:12px;line-height:30px}.btn-mini{padding:0 24px;height:24px;font-size:9.6px;line-height:24px}.tips-summary{margin-top:1.25rem;margin-bottom:1.25rem;padding:1rem;border:1px solid #eee;border-radius:.1rem;border-left-width:.4rem}.tips-summary a,.tips-summary p,.tips-summary span{padding:none}.tips-error{border:1px solid #e0413e;border-radius:.1rem;border-left-width:.4rem}.tips-error,.tips-warning{margin-top:1.25rem;margin-bottom:1.25rem;padding:1rem}.tips-warning{border:1px solid #fc0;border-radius:.1rem;border-left-width:.4rem}.tips-succees{border:1px solid #28a745;border-radius:.1rem;border-left-width:.4rem}.tips-dark,.tips-succees{margin-top:1.25rem;margin-bottom:1.25rem;padding:1rem}.tips-dark{border:1px solid #343a40;border-radius:.1rem;border-left-width:.4rem}.link{color:#1d8aff;text-decoration:none}.link:hover{color:#3a7cc4;text-decoration:underline}.navbar{position:fixed;width:99%}.navbar ul{overflow:hidden;margin:0;padding:0;background-color:#333;list-style-type:none}.navbar li{float:left}.navbar li a{display:block;padding:14px 16px;color:#fff;text-align:center;text-decoration:none}.navbar li a:hover:not(.active){background-color:#111}.navbar .active{background-color:#4caf50}.Lnavbar ul.sidenav{position:fixed;overflow:auto;margin:0;padding:0;width:17%;height:100%;background-color:#f1f1f1;list-style-type:none}.Lnavbar ul.sidenav li a{display:block;padding:8px 16px;color:#000;text-decoration:none}.Lnavbar ul.sidenav li a.active{background-color:#4caf50;color:#fff}.Lnavbar ul.sidenav li a:hover:not(.active){background-color:#555;color:#fff}.Lnavbar div.content{margin-left:25%;padding:1px 16px}ul.page{display:inline-block;margin:0;padding:0}ul.page li{display:inline}ul.page li a{float:left;padding:8px 16px;border:1px solid #ddd;color:#000;text-decoration:none;transition:background-color .3s}ul.page li a.active{border:1px solid #4caf50;background-color:#4caf50;color:#fff}ul.page li a:hover:not(.active){background-color:#ddd}
