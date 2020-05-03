@@ -279,10 +279,6 @@ body {
             <li><a class="active">选中</a></li>
             <li><a>未选中</a></li>
         </ul>
-        <div class="content">
-            <p>awa</p>
-            <p>qaq</p>
-        </div>
     </div>
 */
 
@@ -372,3 +368,26 @@ ul.page li a:hover:not(.active) {
         <li><a>»</a></li>
       </ul>
 */
+/*
+* YinsFooter
+* 最后更改日期:2020年4月30日
+*/
+footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 60px;
+  border: 2px solid #000;
+  background-color: #000;
+  color: white;
+}
+
+footer a {
+  text-align: center;
+}
+
+footer p {
+  text-align: center;
+}
+/*<footer><p>&copy;2020 LiangYin</p></footer>*/
